@@ -29,7 +29,7 @@ It's simply a new medium for sharing what I know and connecting with more people
 
 ## 🧩 My open-source Skills
 
-### Solo Business Content Positioning
+### Content Positioning for Independent Professionals
 
 An interview-driven Skill for experts who have valuable experience but lack a clear content direction. It helps them create:
 
