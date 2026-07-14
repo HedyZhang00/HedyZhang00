@@ -2,6 +2,8 @@
 
 [中文](./README.md) · English
 
+🐦 [X / Twitter: @xiaomanhedy](https://x.com/xiaomanhedy)
+
 I'm not a professional programmer, and I don't write code.
 
 What I do well is turn people's expertise, ways of thinking, and content methods into Skills that can be reused, shared, and continuously improved.

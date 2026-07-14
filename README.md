@@ -2,6 +2,8 @@
 
 中文 · [English](./README_EN.md)
 
+🐦 [X / Twitter：@xiaomanhedy](https://x.com/xiaomanhedy)
+
 我不是专业程序员，也不会写代码。
 
 我更擅长的，是把一个人的专业经验、思考方式和内容方法，整理成可以重复使用、持续迭代的 Skills。
